@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.edu.ittepic.practicau2_1_basedatos1tabla_duranocampomiguelangel.MainActivity"
+    >
+    <!--:context="mx.edu.ittepic.practicau2_1_basedatos1tabla_duranocampomiguelangel.MainActivity">-
+    <item android:title="Buscar"
+        android:id="@+id/buscar"/>
+    <item android:title="Eliminar"
+        android:id="@+id/eliminar"/>
+    <item android:title="Actualizar"
+        android:id="@+id/actualizar"/>-->
+
+</menu>
